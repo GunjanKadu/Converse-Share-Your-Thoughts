@@ -2,6 +2,11 @@
 
 The Application is built mainly using React & Redux
 
+## Demo
+
+![](gif/Demo1.gif)
+![](gif/Demo2.gif)
+
 ## Getting started
 
 To get the frontend running locally:
