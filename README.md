@@ -1,3 +1,7 @@
+## INFO
+
+The Application is built mainly using React & Redux
+
 ## Getting started
 
 To get the frontend running locally:
